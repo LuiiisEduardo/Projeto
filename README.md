@@ -12,7 +12,6 @@ Itens necessários:
 
 Software necessário:
 Arduíno IDLE (disponível no site: https://www.arduino.cc/en/main/software#).
-Fritzing (A versão gratuíta estará disponível nos arquivos disponibilizados).
 PgAdmin4
 
 Importações necessárias para o uso correto dos programas:
